@@ -1,1 +1,2 @@
-
+nome = "mika"
+print(nome)
