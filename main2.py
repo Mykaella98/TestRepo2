@@ -1,2 +1,3 @@
 nome = "mika"
-print(nome)
+cognome = "Souza"
+print(nome, cognome)
